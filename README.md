@@ -1,7 +1,13 @@
 # Python Cybersecurity Projects
 
-Ce répertoire contient une collection de projets de cybersécurité réalisés en Python.
+This directory contains a collection of cybersecurity projects made in Python. These projects aim to provide practical examples and demonstrate the use of Python in cybersecurity.
 
-## Description
+# About me
 
-Ces projets visent à fournir des exemples pratiques et à démontrer l'utilisation de Python dans le domaine de la cybersécurité.
+My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst passionate about the intersection of AI and cybersecurity.
+
+# My Projects
+
+Below, find a list of my Python projects, mainly for Cybersecurity:
+
+- [DNS Lookup](https://github.com/dspydev/python-cybersecurity-projects/tree/main/dns-lookup)
