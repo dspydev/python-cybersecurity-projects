@@ -11,3 +11,4 @@ My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst pass
 Below, find a list of my Python projects, mainly for Cybersecurity:
 
 - [DNS Lookup](https://github.com/dspydev/python-cybersecurity-projects/tree/main/dns-lookup)
+- [Secure PDF](https://github.com/dspydev/python-cybersecurity-projects/tree/main/secure-pdf)
