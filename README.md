@@ -4,7 +4,7 @@ This directory contains a collection of cybersecurity projects made in Python. T
 
 # About me
 
-My name is Damien SOULÉ, I am a Python developer and cybersecurity analyst passionate about the intersection of AI and cybersecurity.
+My name is Damien SOULÉ, I am a AI Python developer interested in cybersecurity. 
 
 # My Projects
 
